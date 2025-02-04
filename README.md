@@ -19,4 +19,4 @@ and predictive accuracy. Our results reveal that significant model compression c
 without substantial loss in accuracy, offering a practical solution for real-world forecasting
 applications.
 
-I have uploaded the colab used to get my results, a Python file for code, and the results of my findings summarised in a research paper. 
+I have uploaded the colab used to get my results, a Python file for code, and the results of my findings summarised in a draft research paper. 
